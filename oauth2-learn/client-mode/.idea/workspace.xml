@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b32fdeae-d2cb-4ffc-9cfe-bc74201e04f7" name="Default Changelist" comment="" />
+    <list default="true" id="b32fdeae-d2cb-4ffc-9cfe-bc74201e04f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/client-mode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../token-mode/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code-mode-redis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code-mode-redis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code-mode-redis/auth/src/main/java/im/dai/auth/AuthorizationServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../code-mode-redis/auth/src/main/java/im/dai/auth/AuthorizationServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code-mode-redis/client/src/main/java/im/dai/client/TokenTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../code-mode-redis/client/src/main/java/im/dai/client/TokenTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../password-mode/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../password-mode/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../password-mode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../password-mode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../password-mode/auth/src/main/java/im/dai/auth/AuthorizationServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../password-mode/auth/src/main/java/im/dai/auth/AuthorizationServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../token-mode/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../token-mode/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../token-mode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../token-mode/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +28,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -33,6 +48,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1gqYajAGXdWoE1LPBmOXX9MeytQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -119,11 +135,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -145,6 +156,10 @@
       <workItem from="1598844693385" duration="20000" />
       <workItem from="1598855550559" duration="3513000" />
       <workItem from="1598868636323" duration="511000" />
+      <workItem from="1598932425899" duration="63000" />
+      <workItem from="1598935354226" duration="19000" />
+      <workItem from="1598935472023" duration="105000" />
+      <workItem from="1598935696317" duration="11000" />
     </task>
     <servers />
   </component>

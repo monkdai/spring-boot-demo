@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="client" />
-        <module name="resource" />
-        <module name="auth" />
         <module name="token-mode" />
+        <module name="resource" />
+        <module name="client" />
+        <module name="auth" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

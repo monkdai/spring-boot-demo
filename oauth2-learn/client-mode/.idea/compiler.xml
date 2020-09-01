@@ -7,10 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
-        <module name="code-mode" />
+        <module name="resource" />
         <module name="auth" />
         <module name="client-mode" />
-        <module name="resource" />
+        <module name="code-mode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

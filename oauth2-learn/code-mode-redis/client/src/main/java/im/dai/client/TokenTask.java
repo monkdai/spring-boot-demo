@@ -59,7 +59,7 @@ public class TokenTask {
             ResponseEntity<String> entity = restTemplate.exchange("http://localhost:8081/admin/hello", HttpMethod.GET, httpEntity, String.class);
             return entity.getBody();
         } catch (RestClientException e) {
-            return "未加载";
+            return "未登录";
         }
     }
 
