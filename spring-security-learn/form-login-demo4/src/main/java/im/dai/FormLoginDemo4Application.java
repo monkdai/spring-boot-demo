@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FormLoginDemo4Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(FormLoginDemo3Application.class, args);
+        SpringApplication.run(FormLoginDemo4Application.class, args);
     }
 
 }
