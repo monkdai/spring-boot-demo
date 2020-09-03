@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3f6f079-fa36-4d3b-b907-f18c4e779186" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dai/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dai/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dai/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dai/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dai/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/im/dai/service/UserService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\software\Maven\repository" />
+        <option name="mavenHome" value="C:/software/Maven" />
+        <option name="userSettingsFile" value="C:\software\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gzNKkKWlupofPeiul6c1RqURQS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="im.dai" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WithSpringDataJpaApplication">
+    <configuration name="TestApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="with-spring-data-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="im.dai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="im.dai" />
+      <option name="MAIN_CLASS_NAME" value="im.dai.TestApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithSpringDataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="with-spring-data-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="im.dai.WithSpringDataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3f6f079-fa36-4d3b-b907-f18c4e779186" name="Default Changelist" comment="" />
+      <created>1599113398759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599113398759</updated>
+      <workItem from="1599113400982" duration="3916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1599114126831">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="209" key="#com.intellij.ide.util.MemberChooser/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599114126831" />
+    <state x="739" y="383" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599116270169">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="383" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599116270169" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599113411170">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599113411170" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1599113951101">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599113951101" />
+    <state width="1877" height="341" key="GridCell.Tab.0.bottom" timestamp="1599117362340">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.0.bottom/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599117362340" />
+    <state width="1877" height="341" key="GridCell.Tab.0.center" timestamp="1599117362340">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.0.center/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599117362340" />
+    <state width="1877" height="341" key="GridCell.Tab.0.left" timestamp="1599117362340">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.0.left/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599117362340" />
+    <state width="1877" height="341" key="GridCell.Tab.0.right" timestamp="1599117362340">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.0.right/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599117362340" />
+    <state width="1877" height="341" key="GridCell.Tab.1.bottom" timestamp="1599117362340">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.1.bottom/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599117362340" />
+    <state width="1877" height="341" key="GridCell.Tab.1.center" timestamp="1599117362340">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.1.center/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599117362340" />
+    <state width="1877" height="341" key="GridCell.Tab.1.left" timestamp="1599117362340">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.1.left/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599117362340" />
+    <state width="1877" height="341" key="GridCell.Tab.1.right" timestamp="1599117362340">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="341" key="GridCell.Tab.1.right/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599117362340" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1599113957296">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1599113957296" />
+  </component>
+</project>
