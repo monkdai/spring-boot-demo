@@ -1,6 +1,10 @@
 # Spring Boot 学习案例合集
 ------
 
+### Spring Security
+
+- [表单登录及两种用户名/密码配置方案](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/form-login-demo1)
+
 ### OAuth2系列
 
 - [授权码模式](https://github.com/monkdai/spring-boot-demo/tree/master/oauth2-learn/code-mode)
@@ -11,7 +15,3 @@
 - [无状态登录](https://github.com/monkdai/spring-boot-demo/tree/master/oauth2-learn/oauth2-jwt)
 - [单点登录](https://github.com/monkdai/spring-boot-demo/tree/master/oauth2-learn/oauth2-sso)
 - [支持github第三方登录](https://github.com/monkdai/spring-boot-demo/tree/master/oauth2-learn/oauth2-github)
-
-### Spring Security
-
-- [表单登录及两种用户名/密码配置方案](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/form-login-demo1)
