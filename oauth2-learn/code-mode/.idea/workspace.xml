@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b32fdeae-d2cb-4ffc-9cfe-bc74201e04f7" name="Default Changelist" comment="" />
+    <list default="true" id="b32fdeae-d2cb-4ffc-9cfe-bc74201e04f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../spring-security-learn/form-login-demo1/src/main/java/im/dai/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-learn/form-login-demo1/src/main/java/im/dai/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +14,9 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -26,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1gqYajAGXdWoE1LPBmOXX9MeytQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -110,6 +119,7 @@
       <workItem from="1598843657632" duration="867000" />
       <workItem from="1598844693385" duration="20000" />
       <workItem from="1598859113672" duration="1046000" />
+      <workItem from="1599033965789" duration="25000" />
     </task>
     <servers />
   </component>

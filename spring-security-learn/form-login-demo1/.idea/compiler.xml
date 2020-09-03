@@ -6,19 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="client" />
-        <module name="code-mode" />
-        <module name="auth" />
-        <module name="resource" />
+        <module name="form-login-demo1" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8" />
+    <bytecodeTargetLevel target="8">
+      <module name="form-login-demo1" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="auth" options="-parameters" />
-      <module name="client" options="-parameters" />
-      <module name="resource" options="-parameters" />
+      <module name="form-login-demo1" options="-parameters" />
     </option>
   </component>
 </project>
