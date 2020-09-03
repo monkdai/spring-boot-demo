@@ -1,5 +1,5 @@
 # Spring Boot 学习案例合集
-### Spring Security
+### Spring Security系列
 
 - [表单登录及两种用户名/密码配置方案](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/form-login-demo1)
 
