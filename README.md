@@ -2,6 +2,13 @@
 ### Spring Security系列
 
 - [表单登录及两种用户名/密码配置方案](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/form-login-demo1)
+- [前后端分离的表单登录认证](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/form-login-demo2)
+- [用户授权](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/form-login-demo3)
+- [支持数据库读取用户数据](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/form-login-demo4)
+- [自动登录](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/remember-me)
+- [自动登录的安全风险控制](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/remember-me-persis)
+- [结合 Spring Data Jpa 自定义授权数据库的模型](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/with-spring-data-jpa)
+- [引入验证码完成自定义认证逻辑](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/captcha)
 
 ### OAuth2系列
 
