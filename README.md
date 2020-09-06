@@ -1,4 +1,4 @@
-# Spring Boot 学习案例合集
+# 学习案例合集
 ### Spring Security系列
 
 - [表单登录及两种用户名/密码配置方案](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/form-login-demo1)
@@ -10,6 +10,8 @@
 - [结合 Spring Data Jpa 自定义授权数据库的模型](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/with-spring-data-jpa)
 - [引入验证码完成自定义认证逻辑](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/captcha)
 - [自定义获取用户登录信息](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/captcha2)
+- [禁止同时登录在线（基于内存）](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/login-unique)
+- [禁止同时登录在线（基于数据库）](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/login-unique2)
 
 ### OAuth2系列
 
