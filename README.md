@@ -12,6 +12,10 @@
 - [自定义获取用户登录信息](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/captcha2)
 - [禁止同时登录在线（基于内存）](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/login-unique)
 - [禁止同时登录在线（基于数据库）](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/login-unique2)
+- [会话固定攻击及防御](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/session)
+- [集群中的session共享](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/session2)
+- [CSRF攻击及防御](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/csrf)
+- [用 Swagger 测试接口时携带 Token](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/oauth2-jwt-swagger)
 
 ### OAuth2系列
 
