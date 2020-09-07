@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>前后台分离的防御方案</title>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.cookie.js"></script>
+</head>
+<body>
+<div>
+    <div>
+        用户名：<input type="text" id="username">
+    </div>
+    <div>
+        密码：<input type="password" id="password">
+    </div>
+    <div>
+        <input type="button" value="登录" id="loginBtn">
+    </div>
+</div>
+<script>
+    $("#loginBtn").click(function () {
+        let _csrf = $.cookie('XSRF-TOKEN');
+        $.post('/login.html',{username:$("#username").val(),password:$("#password").val(),_csrf:_csrf},function (data) {
+            alert(data);
+        })
+    })
+</script>
+</body>
+</html>
