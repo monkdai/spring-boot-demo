@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f3f6f079-fa36-4d3b-b907-f18c4e779186" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/with-spring-data-jpa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/with-spring-data-jpa.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -109,6 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599113398759</updated>
       <workItem from="1599113400982" duration="5593000" />
+      <workItem from="1599555209472" duration="788000" />
     </task>
     <servers />
   </component>

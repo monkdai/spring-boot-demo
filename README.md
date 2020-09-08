@@ -16,6 +16,10 @@
 - [集群中的session共享](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/session2)
 - [CSRF攻击及防御](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/csrf)
 - [用 Swagger 测试接口时携带 Token](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/oauth2-jwt-swagger)
+- [Spring Boot 中三种跨域场景总结](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/cors)
+- [HttpBasic认证和Http摘要认证](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/http)
+- [多种加密方案共存](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/mix-encode)
+- [异常处理机制以及自定义提示](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/exception)
 
 ### OAuth2系列
 
