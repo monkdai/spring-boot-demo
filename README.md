@@ -10,8 +10,8 @@
 - [结合 Spring Data Jpa 自定义授权数据库的模型](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/with-spring-data-jpa)
 - [引入验证码完成自定义认证逻辑](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/captcha)
 - [自定义获取用户登录信息](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/captcha2)
-- [禁止同时登录在线（基于内存）](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/login-unique)
-- [禁止同时登录在线（基于数据库）](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/login-unique2)
+- [禁止同时登录在线](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/login-unique)（基于内存）
+- [禁止同时登录在线](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/login-unique2)（基于数据库）
 - [会话固定攻击及防御](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/session)
 - [集群中的session共享](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/session2)
 - [CSRF攻击及防御](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/csrf)
