@@ -20,6 +20,7 @@
 - [HttpBasic认证和Http摘要认证](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/http)
 - [多种加密方案共存](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/mix-encode)
 - [异常处理机制以及自定义提示](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/exception)
+- [如何同时连接多个数据源](https://github.com/monkdai/spring-boot-demo/tree/master/spring-security-learn/multiusers)（对于不同平台查询不同用户）
 
 ### OAuth2系列
 
